@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19 information for endangered languages</title>
-    <link>https://davidbm.github.io/covid-19-endangeredlanguages/</link>
+    <link>https://endangeredlanguagesproject.github.io/COVID-19/</link>
     <description>Recent content on COVID-19 information for endangered languages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://davidbm.github.io/covid-19-endangeredlanguages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://endangeredlanguagesproject.github.io/COVID-19/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
